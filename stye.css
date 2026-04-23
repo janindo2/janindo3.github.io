@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    font-size: 20px;
+    color: red;
+}
+
+input[type=text] {
+    padding: 8px;
+    font-size: 16px;
+}
+
+input[type=submit] {
+    padding: 8px 14px;
+    font-size: 16px;
+    cursor: pointer;
+}
